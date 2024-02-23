@@ -1,1 +1,2 @@
 print('panflketo')
+print('kamikaze')
