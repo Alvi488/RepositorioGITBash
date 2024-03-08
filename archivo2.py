@@ -1,2 +1,0 @@
-print('panflketo')
-print('kamikaze')
